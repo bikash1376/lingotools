@@ -1,5 +1,5 @@
 # LingoTools (lingo-extenstion) 
-## Demo: https://www.youtube.com/watch?v=88Hci4w4eEk
+#### Demo: https://www.youtube.com/watch?v=88Hci4w4eEk
 
 Small Chrome extension + Node backend to translate full pages using lingo.dev.
 
