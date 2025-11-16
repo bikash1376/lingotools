@@ -4,7 +4,7 @@ document.addEventListener('DOMContentLoaded', () => {
     const translateBtn = document.getElementById('translate-btn');
     const localeSelect = document.getElementById('locale');
     const resultContainer = document.getElementById('result');
-    const API_BASE_URL = 'http://localhost:3000'; //only for local development
+    const API_BASE_URL = 'https://lingotools.onrender.com'; //only for local development
 
     checkHealthBtn.addEventListener('click', async () => {
         checkHealthBtn.disabled = true;
