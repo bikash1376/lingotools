@@ -6,7 +6,7 @@ Small Chrome extension + Node backend to translate full pages using lingo.dev.
 LingoTools captures the current page HTML from the browser popup, sends it to a local server that calls the lingo.dev SDK, and injects the translated HTML back into the page. Lightweight popup UI for quick checks and translation.
 
 ## Current features
-- Popup UI to check backend health. (triggers '/health')
+- Popup UI to check backend health. (triggers '/health') https://lingotools.onrender.com/health
 - Capture full page HTML from active tab.
 - Send HTML to local backend `/translate`.
 - Translate HTML using lingo.dev SDK and apply translated HTML to active tab.
