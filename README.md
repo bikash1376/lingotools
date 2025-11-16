@@ -1,6 +1,8 @@
-# LingoTools (lingo-extenstion)
+# LingoTools (lingo-extenstion) 
+## Demo: https://www.youtube.com/watch?v=88Hci4w4eEk
 
 Small Chrome extension + Node backend to translate full pages using lingo.dev.
+
 
 ## Overview
 LingoTools captures the current page HTML from the browser popup, sends it to a local server that calls the lingo.dev SDK, and injects the translated HTML back into the page. Lightweight popup UI for quick checks and translation.
